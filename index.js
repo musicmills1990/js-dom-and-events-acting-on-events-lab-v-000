@@ -16,3 +16,5 @@ function addNewElementAsLi(){
   let employee = retrieveEmployeeInformation();
   document.querySelector('.employee-list').insertAdjacentHTML('beforeend', `<li>${employee}</li>`)
 }
+
+function
