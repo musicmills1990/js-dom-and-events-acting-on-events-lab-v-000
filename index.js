@@ -8,5 +8,4 @@ preventRefreshOnSubmit()
 
 function retrieveEmployeeInformation(){
   return document.querySelector.value;
-  
 }
