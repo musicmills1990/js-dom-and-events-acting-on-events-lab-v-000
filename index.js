@@ -12,4 +12,6 @@ function retrieveEmployeeInformation(){
   return input.value;
 }
 
-function
+function addNewElementAsLi(){
+  
+}
