@@ -13,5 +13,6 @@ function retrieveEmployeeInformation(){
 }
 
 function addNewElementAsLi(){
+  let employee = retrieveEmployeeInformation();
   
 }
